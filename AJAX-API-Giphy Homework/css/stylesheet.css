@@ -1,0 +1,59 @@
+body {
+    background-image: url("hero2.jpg");
+}
+
+div {
+    margin-left: 2%;
+    width: 100%;
+}
+
+div.container {
+    margin-top: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.row {
+    background: white
+}
+
+form {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.col-lg-12 {}
+
+div#buttons-view {
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 10px;
+}
+
+input#addName.btn.btn-primary {
+    background-color: black;
+}
+
+button.hero.btn.btn-primary {
+    background-color: black;
+    margin-left: 50px;
+}
+
+#gifs-appear-here.row {}
+
+img {
+    margin-top: 30px;
+    width: 80%;
+    height: 80%;
+}
+
+#background-image {}
+
+.item.col-lg-3.col-md-3.col-sm-4.col-xs-12 {}
