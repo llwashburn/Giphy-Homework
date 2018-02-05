@@ -1,9 +1,13 @@
 
 Overview
+
+
 The Giphy Homework Assignment is to create a webpage application utilizing Giphy API. I chose superheros as my topic for the project. I was not successful with getting my play and pause function to work properly.
 
 
 Goals
+
+
 -Create an array of strings, each one related to a topic that interests you. Save it to a variable called topics.
 -Choose a topic of your choice.
 -Your app should take the topics in this array and create buttons in your HTML.
@@ -16,6 +20,8 @@ Goals
 
 
 Tools/Resources
+
+
 Giphy 
 API 
 HTML 
